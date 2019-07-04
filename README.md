@@ -6,4 +6,4 @@
 ![Image text](https://github.com/wangfengwanan/text-sentiment-analysis/blob/master/model.png)
 
 各模型结果对比如下：
-![Image text](https://github.com/wangfengwanan/text-sentiment-analysis/blob/master/model.png)
+![Image text](https://github.com/wangfengwanan/text-sentiment-analysis/blob/master/result.png)
