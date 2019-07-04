@@ -5,4 +5,4 @@ text sentiment analysis
 [batch_size, height, width, channels]，其中height = 1，width为文本词语个数，channels为词向量维度。模型分为三个部分，第一部分是：分别使用
 1*1，1*2,1*3,1*5,1*7的卷积核对输入进行卷积操作，并按照最后一个维度进行拼接。第二部分使用了4*（2个CNN+1个膨胀卷积），最后一部分为两层的FC。
 
-![Image text] (https://github.com/wangfengwanan/text-sentiment-analysis/blob/master/model.png)
+![Image text](https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg)
